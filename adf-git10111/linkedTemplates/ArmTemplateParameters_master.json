@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "adf-git10111"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://sg1wafa.dfs.core.windows.net/"
+		},
 		"containerUri": {
 			"value": ""
 		},
